@@ -1,3 +1,82 @@
+.top{
+    text-align: right;
+    color: black;
+    padding: 15px 30px;
+    font-weight: 600;
+}
 h1{
     font-size: 50px;
+}
+#highlight1{
+    color: darkturquoise;
+}
+#highlight2{
+    color: rgb(211, 8, 119);
+}
+.highlight3{
+    color: rgb(26, 130, 179);
+}
+#red-highlight{
+    color: rgb(125, 16, 139);
+}
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0%;
+}
+body p{
+    color: gray;
+}
+.sec-1{
+    float: left;
+    width: 40%;
+    margin-left: 4%;
+}
+.sec-1 img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange, yellow);
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 700;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.align{
+    text-align: center;
+    padding-top: 6%;
+    padding-bottom: 4%;
+    font-size: 30px;
+}
+.project-area{
+    background-color: rgb(237, 244, 245);
+}
+.sec-3{
+    float: left;
+    width: 20%;
+    margin-left: 9%;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    height: 330px;
+    background-color: white;
+}
+.sec-3 img{
+    width: 100%;
+}
+.pad{
+    padding: 5px 8px;
+    text-align: justify;
+}
+.work{
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+    padding-top: 9%;
+    margin-left: 9%;
+}
+.foot{
+    text-align: center;
 }
